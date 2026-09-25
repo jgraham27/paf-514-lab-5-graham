@@ -18,6 +18,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
+    - Getting Started: "getstarted"
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
@@ -105,7 +106,7 @@ navbar-border-col: "#D858ae3"
 page-col: "#FB4F14"
 text-col: "#404040"
 link-col: "#008AFF"
-hover-col: "#d0085A1"
+hover-col: "#ffc300"
 footer-col: "#F758bfd"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
