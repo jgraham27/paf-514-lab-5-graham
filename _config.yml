@@ -14,8 +14,8 @@ description: Project to practice web development
 author: Justin Graham
 
 # Define site url 
-url: 
-baseurl: 
+url: https://jgraham27.github.io
+baseurl: /paf-514-lab-5-graham
 
 # --- List of links in the navigation bar --- #
 
