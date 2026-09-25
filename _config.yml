@@ -6,10 +6,16 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: PAF 514 Example GitHub Pages Website 
+
+description: Project to practice web development
 
 # Your name to show in the footer
-author: Some Person
+author: Justin Graham
+
+# Define site url 
+url: 
+baseurl: 
 
 # --- List of links in the navigation bar --- #
 
