@@ -1094,3 +1094,30 @@ pre {
     display: inline-block;
   }
 }
+<style>
+
+.gs-section-01 h3 {
+  color: red;
+}
+
+.gs-section-01 p {
+  font-size: 24px;
+}
+
+.gs-section-02 h3 {
+  color: blue;
+}
+
+.gs-section-02 p {
+  font-size: 20px;
+}
+
+.gs-section-03 h3 {
+  color: green;
+}
+
+.gs-section-03 p {
+  font-size: 18px;
+}
+
+</style>
