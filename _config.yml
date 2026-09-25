@@ -20,12 +20,13 @@ baseurl: /paf-514-lab-5-graham
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "Im Cool"
+  navbar-links:
+  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
-    - Getting Started: "getstarted"
-   Table Demo: "table-demo" 
+    - Getting Started: "getstarted"                         
+  Table Demo: "table-demo" 
 
 # --- Logo --- #
 
